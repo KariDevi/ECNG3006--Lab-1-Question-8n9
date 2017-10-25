@@ -1,3 +1,4 @@
+//Lab 1 Questions 8 and 9 814002097
 #define _XTAL_FREQ 4000000//4MHz
 
 #define RS RD1//this ensures that the pins on the lcd are matched to the correct oport pins on the pic18
